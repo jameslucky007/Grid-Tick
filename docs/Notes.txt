@@ -1,0 +1,121 @@
+Pending Tasks --------------------------------
+1. Add Navbar like Zen browser
+2. Make It Responsive
+3. add ai agentic tool icons
+4. Create folders for Backend & Modals + AI
+5. Setup CI/CD
+6. finalize Frontend Design
+7. Make JWT Authentication
+8. Add Dark Mode
+
+
+📌Project Summary: Todo App with Habbit Tracker and Basic note taking.
+For Phone, Web, and Desktop
+
+
+✨Features
+1.  Smart AI Features
+1.1 Smart Task Creation
+
+
+AI converts big goals into actionable subtasks.
+Example: “Build portfolio website” → UI, React setup, backend, deployment.
+
+1.2 AI-Based Prioritization
+
+AI ranks tasks using urgency, importance, and deadlines.
+Includes color-coded labels with reasoning.
+
+1.3 Weekly Insights & Retrospectives
+
+AI analyzes productivity patterns and gives improvement suggestions.
+
+1.4 Goal → Task Breakdown
+
+User sets a goal → AI generates a step-by-step execution plan + timeline.
+
+2. Learning & Behavior Features
+2.1 Task Memory
+
+App remembers user patterns and auto-fills fields.
+Example: Study DSA → usually 60 min → auto-filled.
+
+2.2 Smart Recurrence Detection
+
+The system detects habits automatically.
+Example: “You study DSA every evening. Make it a daily task?”
+
+3. Unique Workflow Features
+3.1 Time-Anchored Tasks
+
+Tasks tied to natural moments instead of specific clock times.
+Examples:
+• After breakfast → review notes
+• After gym → protein shake
+• Before bed → plan tomorrow
+• After class → revise DSA
+
+3.2 Task Expiry
+
+System detects irrelevant tasks and suggests archiving.
+Example: “This assignment has expired. Archive?”
+
+4. Productivity Tools
+4.1 Analytics & Streaks
+
+• Daily/weekly productivity graphs
+• Habit streak tracking
+• Best time-of-day analysis
+• Achievement badges
+
+4.2 Pomodoro + Time Tracking
+
+• Pomodoro timer linked to tasks
+• Estimates vs actual time analytics
+
+4.3 Multiple Views
+
+• Board view
+• List view
+• Calendar view
+• Analytics dashboard
+
+4.4 Templates
+
+Pre-built templates for:
+• Study workflow
+• Daily routine
+• Work projects
+• Fitness
+• Revision cycles
+
+5. Collaboration & Sync
+5.1 Team Collaboration (Optional)
+
+• Shared tasks
+• Assignments
+• Team-level metrics
+
+5.2 Cross-Device + Offline Support
+
+Works on:
+• Web
+• Mobile
+• Desktop (Tauri/Electron)
+
+Offline support with auto-sync when online.
+
+6. Notifications & Assistance
+6.1 Contextual Notifications
+
+Smart behavioral triggers:
+• “You snoozed this twice. Reschedule?”
+• “You usually study at night. Continue your streak?”
+
+6.2 Widgets (Mobile + Desktop)
+
+• Quick-add widget
+• Today tasks widget
+• Habit streak widget
+
+7. Add Wraps every year like Spotify
