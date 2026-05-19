@@ -119,3 +119,5 @@ Smart behavioral triggers:
 • Habit streak widget
 
 7. Add Wraps every year like Spotify
+
+custom snoozing 
